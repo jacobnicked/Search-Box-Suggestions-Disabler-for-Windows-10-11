@@ -1,0 +1,1 @@
+# Search-Box-Suggestions-Disabler-for-Windows-10-11
