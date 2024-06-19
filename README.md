@@ -5,11 +5,7 @@
 <br />
 <p>This tool disables the web suggestions to make finding your stuff easier and faster.</p>
 <br>
-<table>
-  <tr>
-    <th>Before</th><th>After</th>
-  </tr>
-  <tr>
-    <td><img src="files/before.png"></td><td><img src="files/after.png"></td>
-  </tr>
-</table>
+
+## Screenshots
+**Before** <br><br><kbd><img src="files/before.png" height="auto" width="900px"></kbd><br><br>
+**After** <br><br><kbd><img src="files/after.png" height="auto" width="900px"></kbd>
